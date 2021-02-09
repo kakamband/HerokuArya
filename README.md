@@ -7,7 +7,8 @@ A modular Telegram bot running on python3 with an sqlalchemy database, with some
 
 You can simply deploy for own personal use click on below button.
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TechRuhaimGIT-eng/HerokuArya"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+### Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TechRuhaimGIT-eng/HerokuArya)
 
 
 ## Thanks to
